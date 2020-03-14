@@ -1,6 +1,6 @@
-# HOW_TO_USE_GIT
+# Git &amp; GitHub 사용법에 대해 학습하기
 
-Git &amp; GitHub 사용법에 대해 학습하기
+
 ***
 
 Git 과 GitHub을 학습하기 위한 공간입니다.
