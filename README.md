@@ -12,5 +12,6 @@ https://www.inflearn.com/course/%EB%B9%A0%EB%A5%B4%EA%B2%8C-git/dashboard
 #2.마크다운 사용법(문법)
 ------------------------
 *  <참고 사이트 - 마크다운 사용법>
-<script src="https://gist.github.com/ihoneymon/652be052a0727ad59601.js"></script>
+https://gist.github.com/ihoneymon/652be052a0727ad59601.js
+
 (추후 업데이트 예정!)
