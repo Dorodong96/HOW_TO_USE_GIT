@@ -24,22 +24,22 @@ This is an H2
 
 * 글머리 : #1~6까지만 지원
 ```
-#This is a H1
-##This is a H2
-###This is a H3
-####This is a H4
-#####This is a H5
-######This is a H6
-#######This is a H7
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+####### This is a H7
 ```
 
 
-#This is a H1
-##This is a H2
-###This is a H3
-####This is a H4
-#####This is a H5
-######This is a H6
-#######This is a H7 (지원하지 않음)
+# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6   
+####### This is a H7 (지원하지 않음)
 
 
