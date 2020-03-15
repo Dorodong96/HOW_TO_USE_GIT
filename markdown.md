@@ -155,3 +155,49 @@ This is a normal paragraph:
     This is a code block.
     This is test code.
 end code block.
+
+### 1.4.2 코드블럭 코드
+코드를 이용한 코드블럭 생성은 다음과 같이 2가지 방식을 사용할 수 있다.
+
+* ```<pre><code>{code}</code></pre>``` 이용방식
+```
+<pre>
+<code>
+public class HowToUseGit {
+    public static void main(String[] args) {
+        System.out.println("How to use markdown?");
+    }
+}
+</code>
+</pre>
+```
+<pre>
+<code>
+public class HowToUseGit {
+    public static void main(String[] args) {
+        System.out.println("How to use markdown?");
+    }
+}
+</code>
+</pre>
+
+* <pre><code>```{code}```</code></pre> 이용방식
+<pre>
+<code>
+```
+public class HowToUseGit {
+    public static void main(String[] args) {
+        System.out.println("How to use markdown?");
+    }
+}
+```
+</code>
+</pre>
+
+```
+public class HowToUseGit {
+    public static void main(String[] args) {
+        System.out.println("How to use markdown?");
+    }
+}
+```
