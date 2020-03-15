@@ -160,7 +160,7 @@ end code block.
 코드를 이용한 코드블럭 생성은 다음과 같이 2가지 방식을 사용할 수 있다.
 
 * ```<pre><code>{code}</code></pre>``` 이용방식 (한 줄 전체를 코드로 인식)
-* ```<code>{code}</code>``` 이용방식
+* ```<code>{code}</code>``` 이용방식 (한 줄 이내 코드, 문구)
 ```
 <pre>
 <code>
@@ -184,6 +184,7 @@ public class HowToUseGit {
 
 * <code>```</code> 이용방식
 
+<pre>
 <code>
 ```
 public class HowToUseGit {
@@ -193,7 +194,7 @@ public class HowToUseGit {
 }
 ```
 </code>
-
+</pre>
 
 ```
 public class HowToUseGit {
