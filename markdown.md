@@ -203,3 +203,88 @@ public class HowToUseGit {
     }
 }
 ```
+
+1.5 수평선 ```<hr/>```
+---------------------
+아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력할 때 페이지 나누기 용도로 많이 사용한다.
+```
+* * *
+
+***
+
+*****
+
+- - -
+
+----------------------
+```
+* 적용 결과
+
+* * *
+
+***
+
+*****
+
+- - -
+
+----------------------
+
+1.6 링크(Links)
+----------------
+### 1.6.1 참조링크
+```
+[link keyword] [id]
+
+[id]: URL "Optional Title here"
+```
+
+* 예시
+```
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+```
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+### 1.6.2 외부링크
+```
+[Title](link)
+```
+* 예시
+```
+링크: [Google](https://google.com, "google link")
+```
+링크: [Google](https://google.com, "google link")
+
+### 1.6.3 자동연결
+일반적인 URL 혹은 이메일주소인 경우 적절한형식으로 링크를 형성한다.
+* 예시
+```
+외부링크: <http://example.com/>
+이메일링크: <address@example.com>
+```
+
+외부링크: <http://example.com/>
+이메일링크: <address@example.com>
+
+1.7 강조(Highlight)
+-------------------
+```
+*single asterisk*
+_single underscore_
+**double asterisk**
+__single underscores__
+~~cancelline~~
+```
+
+* *single asterisk*
+* _single underscore_
+* **double asterisk**
+* __single underscores__
+* ~~cancelline~~
+
+>```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
+>문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.
