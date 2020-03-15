@@ -181,7 +181,7 @@ public class HowToUseGit {
 </code>
 </pre>
 
-* ["```"] 이용방식
+* <code>```</code> 이용방식
 <pre>
 <code>
 ```
