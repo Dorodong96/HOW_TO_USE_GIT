@@ -181,7 +181,7 @@ public class HowToUseGit {
 </code>
 </pre>
 
-* <pre><code>```{code}```</code></pre> 이용방식
+* ["```"] 이용방식 (한 줄 전체를 코드로 인식)
 <pre>
 <code>
 ```
