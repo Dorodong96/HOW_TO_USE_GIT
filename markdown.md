@@ -1,6 +1,6 @@
 1.마크다운(.md) 사용법
 ====================
-<원문 : https://https://gist.github.com/ihoneymon/652be052a0727ad59601>   
+< 원문 : https://https://gist.github.com/ihoneymon/652be052a0727ad59601 >   
 ※개인적인 마크다운 학습용도로 작성한 글입니다.
 
 1.1 헤더(Headers)
