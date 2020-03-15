@@ -123,16 +123,20 @@ blockquote안에서는 다른 마크다운 요소를 포함할 수 있다.
 ### 1.4.1 들여쓰기
 4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
 ```
-This is a normal paragraph:
+This is a normal paragraph:   
 
-   This is a code block.
+    This is a code block.
+    
+    This is test code.
    
 end code block.
 ```
 
 This is a normal paragraph:
 
-   This is a code block.
+    This is a code block.
+    
+    This is test code.
    
 end code block.
 
@@ -140,12 +144,12 @@ end code block.
 > 한 줄을 띄어쓰지 않으면 인식이 제대로 되지 않는다.
 ```
 This is a normal paragraph:
-   This is a code block.
-   This is test code.
+    This is a code block.
+    This is test code.
 end code block.
 ```
 
 This is a normal paragraph:
-   This is a code block.
-   This is test code.
+    This is a code block.
+    This is test code.
 end code block.
