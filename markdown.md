@@ -126,7 +126,6 @@ blockquote안에서는 다른 마크다운 요소를 포함할 수 있다.
 This is a normal paragraph:
 
    This is a code block.
-   This is test code.
    
 end code block.
 ```
@@ -134,7 +133,6 @@ end code block.
 This is a normal paragraph:
 
    This is a code block.
-   This is test code.
    
 end code block.
 
