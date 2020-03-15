@@ -159,7 +159,7 @@ end code block.
 ### 1.4.2 코드블럭 코드
 코드를 이용한 코드블럭 생성은 다음과 같이 2가지 방식을 사용할 수 있다.
 
-* ```<pre><code>{code}</code></pre>``` 이용방식
+* ```<pre><code>{code}</code></pre>``` 이용방식 (한 줄 전체를 코드로 인식)
 ```
 <pre>
 <code>
@@ -181,7 +181,7 @@ public class HowToUseGit {
 </code>
 </pre>
 
-* ["```"] 이용방식 (한 줄 전체를 코드로 인식)
+* ["```"] 이용방식
 <pre>
 <code>
 ```
