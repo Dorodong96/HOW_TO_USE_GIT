@@ -292,6 +292,8 @@ __single underscores__
 1.8 이미지
 ----------------
 ```
-![Alt text](/path/to/Lenna.png)
-![Alt text](/path/to/Lenna.png "Optional title")
+![Alt text](/path/to/image.jpg)
+![Alt text](/path/to/image.jpg "Optional title")
 ```
+![Alt text](/path/to/image.jpg)
+![Alt text](/path/to/image.jpg "Optional title")
