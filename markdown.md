@@ -288,3 +288,10 @@ __single underscores__
 
 >```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
 >문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.
+
+1.8 이미지
+----------------
+```
+![Alt text](/path/to/Lenna.png)
+![Alt text](/path/to/Lenna.png "Optional title")
+```
