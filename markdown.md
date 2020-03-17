@@ -295,5 +295,5 @@ __single underscores__
 ![Alt text](/path/to/image.jpg)
 ![Alt text](/path/to/image.jpg "Optional title")
 ```
-![Alt text](/path/to/image.jpg)
-![Alt text](/path/to/image.jpg "Optional title")
+![Lenna](https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png)
+![Lenna](https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png "Lenna ")
