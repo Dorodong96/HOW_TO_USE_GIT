@@ -302,3 +302,14 @@ __single underscores__
 ![Lenna](https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png)   
 ![Lenna](https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png "Lenna ")
 
+사이즈 조절 기능은 없으므로, ```<img width="" height=""></img>```를 이용한다.
+
+예
+```
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+```
+
+<img> src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="450px" height=300" title="px(픽셀) 크기 설정" alt="Lenna"></img><br/>
+<img> src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="40%" height=30%" title="px(픽셀) 크기 설정" alt="Lenna"></img><br/>
+
