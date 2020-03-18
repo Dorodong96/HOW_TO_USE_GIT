@@ -302,14 +302,24 @@ __single underscores__
 ![Lenna](https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png)   
 ![Lenna](https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png "Lenna ")
 
-사이즈 조절 기능은 없으므로, ```<img width="" height=""></img>```를 이용한다.
+사이즈 조절 기능은 없으므로, html의 ```<img src="/path/to/img.jpg" width="" height="" title="Title" alt="Alt text"></img>```를 이용한다.
 
-예
+예를 들면,
 ```
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="450px" height="300" title="px(픽셀) 크기 설정" alt="Lenna"></img><br/>
+<img src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Lenna">
 ```
+<img src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="450px" height="300" title="px(픽셀) 크기 설정" alt="Lenna"></img><br/>
+<img src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Lenna">
 
-<img> src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="450px" height=300" title="px(픽셀) 크기 설정" alt="Lenna"></img><br/>
-<img> src="https://user-images.githubusercontent.com/45297745/76851969-a9ff9c00-688d-11ea-9b40-157ea27543de.png" width="40%" height=30%" title="px(픽셀) 크기 설정" alt="Lenna"></img><br/>
+1.9 줄바꿈
+-----------
+3칸 이상 띄어쓰기 ```(   )```를 하면 줄이 바뀐다.
+문장 마지막에서 3칸 이상을 띄어쓰기해야 한다.
 
+```
+첫줄 끝에서 띄어쓰기를 세 번하면___(띄어쓰기)   
+줄이 바뀐다.
+```
+첫줄 끝에서 띄어쓰기를 세 번하면   
+줄이 바뀐다.
